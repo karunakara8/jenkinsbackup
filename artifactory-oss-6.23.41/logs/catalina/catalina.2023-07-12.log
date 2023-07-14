@@ -1,0 +1,8 @@
+12-Jul-2023 06:14:10.858 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+12-Jul-2023 06:14:10.992 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jul-2023 06:14:11.041 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8040"]
+12-Jul-2023 06:14:11.042 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Jul-2023 06:14:11.089 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Jul-2023 06:14:11.091 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.73]
+12-Jul-2023 06:14:11.157 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/var/lib/jenkins/artifactory-oss-6.23.41/tomcat/conf/Catalina/localhost/artifactory.xml]
+12-Jul-2023 06:14:11.157 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/var/lib/jenkins/artifactory-oss-6.23.41/tomcat/conf/Catalina/localhost/access.xml]

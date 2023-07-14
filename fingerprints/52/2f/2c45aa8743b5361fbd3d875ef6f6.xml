@@ -1,0 +1,19 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-07-11 10:28:01.319 UTC</timestamp>
+  <md5sum>522f2c45aa8743b5361fbd3d875ef6f6</md5sum>
+  <fileName>Credential id=build_server name=karna8/****** (build server)</fileName>
+  <usages>
+    <entry>
+      <string>2nd job</string>
+      <ranges>4-5</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1254.vb_96f366e7b_a_d">
+      <timestamp>1689079185581</timestamp>
+      <nodeName>slave_node</nodeName>
+      <timestamp0>1689079185581</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

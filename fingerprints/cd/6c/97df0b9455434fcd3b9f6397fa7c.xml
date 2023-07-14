@@ -1,0 +1,19 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-07-11 15:01:51.532 UTC</timestamp>
+  <md5sum>cd6c97df0b9455434fcd3b9f6397fa7c</md5sum>
+  <fileName>Credential id=build_server name=jenkins/****** (build server)</fileName>
+  <usages>
+    <entry>
+      <string>2nd job</string>
+      <ranges>6</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1254.vb_96f366e7b_a_d">
+      <timestamp>1689212432102</timestamp>
+      <nodeName>build</nodeName>
+      <timestamp0>1689188949842</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

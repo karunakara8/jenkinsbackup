@@ -1,0 +1,2 @@
+12-Jul-2023 06:14:14.643 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+12-Jul-2023 06:14:14.994 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Using artifactory.home at '/var/lib/jenkins/artifactory-oss-6.23.41' resolved from: System property
